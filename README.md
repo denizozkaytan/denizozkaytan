@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizozkaytan&label=Profile%20views&color=0e75b6&style=flat" alt="denizozkaytan" /> </p>
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/6137922/screenshots/15162516/media/bc22317c4f871eb002d08e8d471e6592.gif">
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/6137922/15162516/media/bc22317c4f871eb002d08e8d471e6592.gif">
 
 
 
